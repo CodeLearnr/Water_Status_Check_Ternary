@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA9_Waters_Status\bin\Debug\LA9_Waters_Status.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA9_Waters_Status\bin\Debug\LA9_Waters_Status.exe
+D:\All files\Bow Valley\SODV9104\HW\LA9_Waters_Status\bin\Debug\LA9_Waters_Status.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA9_Waters_Status\obj\Debug\LA9_Waters_Status.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA9_Waters_Status\obj\Debug\LA9_Waters_Status.exe
+D:\All files\Bow Valley\SODV9104\HW\LA9_Waters_Status\obj\Debug\LA9_Waters_Status.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA9_Waters_Status\obj\Debug\LA9_Waters_Status.csproj.AssemblyReference.cache
